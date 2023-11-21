@@ -1,0 +1,367 @@
+.link{
+    display: flex;
+    gap: 30px;
+   }
+.body{
+    background-color: rgb(128, 27, 46);
+}
+  
+   .mpo{
+       display: flex;
+       gap: 50px;
+       margin-top: 12px;
+       margin-left: 210px;
+   
+   }
+   li{
+       list-style: none;
+       margin-top: 7px;
+   }
+   .bgb{
+       background-color: rgb(39, 37, 37);
+       height: 53px;
+       margin-left: -8px;
+       width: 1348.9px;
+       margin-top: -8px;
+   }
+   .bi{
+       color:rgb(236, 230, 230) ;
+       text-decoration: none;
+       font-size: 14px;
+       font-family: sans-serif;
+   }
+   .a{
+       background-color: rgb(224, 200, 200);
+       width: 90px;
+       height: 28px;
+       margin-top: 6px;
+       margin-left: 50px;
+   }
+   .bi:hover{
+       border-bottom: rgba(255, 101, 11, 0.856) 1px solid;
+   }
+   .btn{
+       gap: 20px;
+       display: flex;
+       margin-left: 80px;
+       margin-top: 2px;
+   }
+   .btn button{
+       background-color: #fff;
+       border: none;
+       height: 30px;
+       margin-top: 10px;
+       width: 118px;
+       border-radius: 2px;
+   }
+   .link img{
+       margin-top: 15px;
+   }
+   .arra{
+    display:flex ;
+    gap: 18px;
+    margin-left: 575px;
+    margin-bottom: -16px;
+    font-family: sans-serif;
+    color: rgb(241, 123, 44);
+    font-weight: 600;
+    margin-top: 10px;
+}
+.arra h4{
+    color: black;
+    margin-top: 40px;
+    margin-left: -240px;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+.arra p{
+    font-size: 14px;
+}
+.arra h5{
+    margin-top: 80px;
+    margin-left: -385px;
+    font-size: 15px;
+    margin-bottom: 33px;
+}
+.dau{
+    margin-left: 440px;
+}
+.dau input{
+    width: 450px;
+    height: 23px;
+    margin-bottom: -70px;
+}
+.space{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+#gilt{
+    border: 1px rgb(117, 116, 116) solid;
+    font-size: 12PX;
+    margin-bottom:10px;
+}
+input::placeholder{
+    margin-left: 30px;
+}
+.os{
+    display: flex;
+    gap: 10px;
+}
+.os input{
+    width: 70px;
+}
+.os section{
+    margin-top: 7px;
+    font-weight: bolder;
+}
+hr{
+    width: 455px;
+    margin-left: 0px;
+    margin-top: -1px;
+}
+.dau h5{
+    font-family: sans-serif;
+    color: rgb(241, 123, 44);
+    font-weight: 600;
+    margin-top: 13px;
+    margin-left: 1px;
+    font-size: 15px;
+    margin-bottom: -10px;
+
+
+}
+#gild{
+    border: 1px rgb(117, 116, 116) solid;
+    font-size: 12PX;
+    margin-bottom:10px;
+    color: rgb(235, 6, 6);
+}
+.dau h2{
+    font-size: 9px;
+    font-weight: 900;
+    font-family: sans-serif;
+}
+#gipp{
+    margin-left: 30px;
+    width: 228px;
+}
+.footer{
+    display: flex;
+    height: 200px;
+    gap:   440px;
+    background-color: black;
+    margin-top: 0px;
+    margin-left: -6px;
+    width: 1345px;
+}
+.ac{
+    margin-top: 50px;
+    margin-left: 320px;
+}
+.kop img{
+    margin-left: 10px;
+    width: 16px;
+    margin-bottom: -6px;
+}
+.bog{
+    font-weight: 600;
+    font-size: 11px;
+    margin-top: 20px;
+    font-family: sans-serif;
+    margin-bottom: -8px;
+    color: white;
+}
+.bug{
+    font-size: 10px;
+    color: rgb(182, 174, 174);
+}
+.boom{
+    margin-top: 53px;
+}
+.herb{
+    font-weight: 600;
+    font-size: 11px;
+    margin-top: 16px;
+    font-family: sans-serif;
+    margin-bottom: 6px;
+    word-spacing: 5px;
+    color: white;
+    
+}
+.boom a{
+    font-size: 8px;
+    color: rgb(189, 171, 171);
+
+}
+.ven{
+    margin-top: -6px;
+    margin-left: 65px;
+}
+.pmi{
+    font-size: 7px;
+    color: white;
+    margin-bottom: -4px;
+}
+.flo{
+    color: white;
+    font-family:  sans-serif;
+    font-weight: 300;
+    font-size: 19px;
+    text-align: center;
+    margin-left: -50px;
+    padding-top: 15px;
+}
+.con{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background-color: black;
+    margin-left: -6px;
+    width: 1345px;
+    
+}
+.neu{
+    background-color: white;
+    width: 380px;
+    margin-left: 470px;
+    height: 50px;
+}
+.wow{
+    color: rgb(117, 116, 116);
+    font-family: sans-serif;
+    font-size: 11px;
+    padding-top: 5px;
+    margin-left: 4px;
+}
+.dot{
+    background-color: red;
+   width: 15px;
+   height: 15px;
+   border-radius: 10px;
+   margin-top: px;
+}
+.ye{
+    display: flex;
+    margin-top: -17px;
+    gap: 10px;
+    margin-left: 10px;
+
+}
+.ck{
+    font-size: 15px;
+    font-weight: 600;
+    font-family: sans-serif;
+    
+}
+.start{
+    font-size: 8px;
+    font-weight: 600;
+    font-family: sans-serif;
+    margin-top: 19px;
+    
+}
+.vb{
+    color:rgb(190, 186, 186);
+    font-family: sans-serif;
+    font-size: 13px;
+    margin-left: 130px;
+    margin-top: 16px;
+}
+.coni{
+    margin-bottom: 230px;
+    background-color: black;
+    height: 300px;
+}
+.neui{
+    background-color: white;
+    width: 380px;
+    margin-left: 470px;
+    height: 50px;
+}
+.wowi{
+    color: rgb(117, 116, 116);
+    font-family: sans-serif;
+    font-size: 11px;
+    padding-top: 5px;
+    margin-left: 4px;
+}
+.doti{
+    background-color: purple;
+   width: 10px;
+   height: 10px;
+   border-radius: 10px;
+   margin-top: 20px;
+}
+.yei{
+    display: flex;
+    margin-top: -17px;
+    gap: 10px;
+    margin-left: 10px;
+
+}
+.cki{
+    font-size: 15px;
+    font-weight: 600;
+    font-family: sans-serif;
+    
+}
+.starti{
+    font-size: 8px;
+    font-weight: 600;
+    font-family: sans-serif;
+    margin-top: 19px;
+    
+}
+.vbi{
+    color:rgb(190, 186, 186);
+    font-family: sans-serif;
+    font-size: 13px;
+    margin-left: 195px;
+    margin-top: 16px;
+}
+.agg{
+    display: flex;
+    font-family: sans-serif;
+    text-align: center;
+    margin-left: 470px;
+    gap: 5px;
+}
+.ng{
+    color: white;
+    font-family: sans-serif;
+    font-size: 13px;
+}
+.gn{
+    color: orange;
+    font-size: 13px;
+}
+#mit{
+    border: 3px rgb(194, 14, 14) solid;
+    color: red;
+}
+.pa{
+    color: white;
+    font-family: sans-serif;
+    font-size: 8px;
+    font-weight: lighter;
+    margin-left: 490px;
+    word-spacing: 1.6px;
+    margin-top: -10px;
+    line-height: 13px;
+}
+.set{
+    color: orange;
+    border-radius: none;
+    width: 400px;
+    height: 30px;
+    margin-left: 460px;
+}
+.giu :hover{
+    background-color: rgb(240, 104, 41);
+    border-bottom: none;
+}
+.oo{
+    color: white;
+    list-style: none;
+    text-decoration: none;
+}

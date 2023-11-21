@@ -1,0 +1,371 @@
+.link{
+    display: flex;
+    gap: 30px;
+   }
+.body{
+    background-color: rgb(128, 27, 46);
+}
+  
+   .mpo{
+       display: flex;
+       gap: 50px;
+       margin-top: 12px;
+       margin-left: 210px;
+   
+   }
+   li{
+       list-style: none;
+       margin-top: 7px;
+   }
+   .bgb{
+       background-color: rgb(39, 37, 37);
+       height: 53px;
+       margin-left: -8px;
+       width: 1348.9px;
+       margin-top: -8px;
+       margin-bottom: -54px;
+   }
+   .bi{
+       color:rgb(236, 230, 230) ;
+       text-decoration: none;
+       font-size: 14px;
+       font-family: sans-serif;
+   }
+   .a{
+       background-color: rgb(224, 200, 200);
+       width: 90px;
+       height: 28px;
+       margin-top: 6px;
+       margin-left: 50px;
+   }
+   .bi:hover{
+       border-bottom: rgba(255, 101, 11, 0.856) 1px solid;
+   }
+   .btn{
+       gap: 20px;
+       display: flex;
+       margin-left: 80px;
+       margin-top: 2px;
+   }
+   .btn button{
+       background-color: #fff;
+       border: none;
+       height: 30px;
+       margin-top: 10px;
+       width: 118px;
+       border-radius: 2px;
+   }
+   .link img{
+       margin-top: 15px;
+   }
+.img{
+    background-image: url(./images/BPYZ8415.JPG);
+    background-repeat: inherit;
+    height: 600px;
+    margin-top: -44px;
+    margin-left: -8px;
+    margin-bottom: -10px;
+    width: 1349px;
+}
+.s{
+    font-size: 54px;
+    color: white;
+    margin-left: -50px;
+    padding-top: 200px;
+}
+.colo{
+    color: rgba(255, 101, 11, 0.856);
+}
+.clos{
+    margin-left: 20px;
+}
+.se{
+    font-size: 27px;
+    color: rgb(241, 236, 236);
+    margin-left: 1px;
+    margin-top: -46px;
+}
+.words{
+    font-family: sans-serif;
+    margin-left: 420px;
+}
+.img button{
+    background-color: rgba(219, 84, 6, 0.856);
+    background-repeat: no-repeat;
+    border: 1px solid rgb(94, 88, 88);
+    color: white;
+    width: 240px;
+    height: 50px;
+    margin-left: 150px;
+    border-radius: 3px;
+    font-size: 20px;
+    margin-top: -20px;
+}
+
+.en{
+    background:linear-gradient(to right,rgb(202, 67, 4),rgba(255, 114, 32, 0.767)) ;
+    margin-left: -8px;
+    width: 101.2%;
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+    height: 138px;
+}
+.cl{
+    padding-top: 18px;
+    font-size: 10px;
+    letter-spacing: 3px;
+    margin-left: -8px;
+}
+.ram{
+    font-size: 15px;
+    margin-left: 5px;
+    font-weight: bold;
+}
+.fo button{
+    border: none;
+    color: orange;
+    width: 190px;
+    height: 35px;
+}
+.fo{
+    display: flex;
+    gap: 30px;
+    margin-left: 480px;
+    margin-top: 21px;
+}
+.ri{
+    padding-top: 10px;
+    font-size: 12px;
+    margin-bottom: -5px;
+}
+.ric{
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: px;
+
+}
+.rich{
+    font-size: 12px;
+    font-weight: bold;
+    margin-bottom:30px;
+}
+.aga{
+    font-family: sans-serif;
+    font-weight: bold;
+    color: black;
+    background-color: rgb(255, 253, 253);
+    width: 1280px;
+    height: 2770px;
+    margin-bottom: -10px;
+    margin-top: 14px;
+}
+.des{
+    background-color: rgb(226, 82, 15);
+    height: 6px;
+    width: 300px;
+    border-radius: 6px;
+    margin-left: 8px;
+}
+.ju{
+    display: flex;
+    gap: 15px;
+    margin-left: 470px;
+    margin-top: -30px;
+}
+.de{
+    background-color: rgb(226, 82, 15);
+    height: 6px;
+    width: 8px;
+    border-radius: 6px;
+    padding-left:0px;
+}
+.pe{
+    background-color: rgb(226, 82, 15);
+    height: 6px;
+    width: 8px;
+    border-radius: 6px;
+    margin-left: 0px;
+}
+.arra{
+    display:flex ;
+    gap: 18px;
+    margin-left: 575px;
+    margin-bottom: -16px;
+}
+.arra p{
+    font-size: 12px;
+}
+.pics{
+    display: flex;
+    background-color: #fff;
+    gap: 40px;
+    margin-left: 190px;
+    margin-top: 5PX;
+}
+.bc{
+    background-color: #fff;
+    color: white;
+    width: 280px;
+}
+.cc{
+    width: 280px;
+    margin-top: -1px;
+}
+.gu{
+    display: flex;
+    gap: 50px;
+    background-image: url(./e0184_Elk-Grove-Cardio-Upstairs\ 1.png);
+    background-repeat: no-repeat;
+    margin: 150px;
+    color: #fff;
+    font-weight: 300;
+    margin-top: 20px;
+}
+.ll{
+    font-size: 45px;
+    margin-left: 50px;
+    margin-bottom: -5px;
+}
+.lll{
+    font-size: 23px;
+    margin-left:30px;
+    margin-bottom: -20px;
+    font-family: cursive;
+}
+.llll{
+    font-size: 23px;
+    margin-left: -10px;
+    margin-bottom: -25px;
+    font-family: cursive;
+
+}
+.bap{
+    margin-top: 60px;
+    font-size: 29px}
+.ba{
+    font-size: 23px;
+    margin-left: 23px;
+    margin-bottom: -25px;
+    font-family: cursive;
+
+}
+.lv{
+    font-size: 23px;
+    margin-left: -426px;
+    margin-bottom: -25px;
+    font-family: cursive;
+
+}
+.limp{
+    margin-top: -40px;
+}
+.ju{
+    margin-top: -180px;
+    margin-bottom: 2px;
+}
+.hij{
+    display: flex;
+    gap: 25px;
+    margin-left: 160px;
+    margin-bottom: 10px;
+}
+.arra{
+    margin-top: 30px;
+}
+.mm{
+    display: flex;
+}
+.las{
+    width: 980px;
+    margin-left: 155px;
+    height: 500px;
+}
+.lass{
+    margin-left: -540px;
+    width: 100px;
+    height: 100px;
+    border-radius:50px;
+    margin-top: 220px;
+
+}
+.array{
+    height :7000px;
+}
+.en2{
+    background:linear-gradient(to right,rgb(202, 67, 4),rgba(241, 127, 60, 0.767)) ;
+    margin-left: 0px;
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+    height: 135px;
+
+}
+.en2 button{
+border: none;
+color: orange;
+width: 300px;
+height: 35px;
+}
+.footer{
+    display: flex;
+    background-color: rgb(22, 22, 22);
+    height: 180px;
+    gap: 420px;
+}
+.ac{
+    margin-left: 230px;
+    margin-top: 50px;
+}
+.kop img{
+    margin-left: 10px;
+    width: 16px;
+}
+.bog{
+    font-weight: 600;
+    font-size: 11px;
+    margin-top: 20px;
+    font-family: sans-serif;
+    margin-bottom: -8px;
+    
+}
+.bug{
+    font-size: 10px;
+    color: rgb(182, 174, 174);
+}
+.boom{
+    margin-top: 53px;
+}
+.herb{
+    font-weight: 600;
+    font-size: 11px;
+    margin-top: 16px;
+    font-family: sans-serif;
+    margin-bottom: px;
+    word-spacing: 5px;
+    
+}
+.boom a{
+    font-size: 8px;
+    color: rgb(189, 171, 171);
+
+}
+.ven{
+    margin-top: -6px;
+    margin-left: 65px;
+}
+.pmi{
+    font-size: 7px;
+    color: white;
+    margin-bottom: -4px;
+}
+.giu :hover{
+    background-color: rgb(240, 104, 41);
+    border-bottom: none;
+}
+.oo{
+    color: white;
+    list-style: none;
+    text-decoration: none;
+}

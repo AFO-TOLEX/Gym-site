@@ -1,0 +1,370 @@
+.link{
+    display: flex;
+    gap: 30px;
+   }
+.body{
+    background-color: rgb(128, 27, 46);
+}
+  
+   .mpo{
+       display: flex;
+       gap: 50px;
+       margin-top: 12px;
+       margin-left: 210px;
+   
+   }
+   li{
+       list-style: none;
+       margin-top: 7px;
+   }
+   .bgb{
+       background-color: rgb(39, 37, 37);
+       height: 53px;
+       margin-left: -8px;
+       width: 1348.9px;
+       margin-top: -8px;
+   }
+   .bi{
+       color:rgb(236, 230, 230) ;
+       text-decoration: none;
+       font-size: 14px;
+       font-family: sans-serif;
+   }
+   .a{
+       background-color: rgb(224, 200, 200);
+       width: 90px;
+       height: 28px;
+       margin-top: 6px;
+       margin-left: 50px;
+   }
+   .bi:hover{
+       border-bottom: rgba(255, 101, 11, 0.856) 1px solid;
+   }
+   .btn{
+       gap: 20px;
+       display: flex;
+       margin-left: 80px;
+       margin-top: 2px;
+   }
+   .btn button{
+       background-color: #fff;
+       border: none;
+       height: 30px;
+       margin-top: 10px;
+       width: 118px;
+       border-radius: 2px;
+   }
+   .link img{
+       margin-top: 15px;
+   }
+   .fon img{
+       width: 101.2%;
+       margin-left: -8px;
+       margin-top: 0px;
+       height: 400px;
+   }
+   .fon p{
+       color: #fff;
+       font-size: 89px;
+       font-family: sans-serif;
+       margin-top: -80px;
+       margin-left: 400px;
+       font-weight: bold;
+       margin-bottom: -51px;
+   }
+   .fo{
+       margin-left:50px ;
+       font-family: sans-serif;
+       text-align: center;
+   }
+   .fo h4{
+       font-style: italic;
+       font-weight: bold;
+       font-size: 24px;
+       color: rgb(44, 41, 41);
+   }
+   .fo p{
+       margin-top: -24px;
+       font-size: 14px;
+   }
+   .form label{
+       font-weight: 800;
+       font-family:    Arial, Helvetica, sans-serif;
+       color: rgb(44, 41, 41);
+       font-size: 12px;
+       margin-bottom: 4px;
+   }
+   .form{
+       margin-left: 480px;
+       margin-bottom: -15px;
+   }
+   #gilt{
+       width: 454px;
+       height: 23px;
+       margin-bottom: 5px;
+       border-radius: 2px;
+       border: 1px black solid;
+
+   }
+   .gild{
+    width: 454px;
+    height: 219px;
+    border: 1px black solid;
+}
+     ::placeholder{
+        font-size: 12px;
+    }
+    .dis{
+        display: flex;
+        margin-left: 480px;
+        gap: 5px;
+        font-family: sans-serif;
+    }
+    .dis p{
+        margin-top: 22.5px;
+        font-size: 13px;
+        color: rgb(228, 129, 8);
+    }
+    .dis button{
+        background-color: rgb(31, 30, 30);
+        color: #fff;
+        border: none;
+        font-family: sans-serif;
+        margin-top: 40px;
+        margin-left: -300px;
+        width: 459px;
+        height: 40px;
+        font-size: 12px;
+        margin-bottom: 20px;
+        
+    }
+    .dis input{
+        margin-top: -39px;
+    }
+    .pur img{
+        margin-left: -6px;
+        width: 1344px;
+        margin-bottom: -20px;
+    }
+
+
+
+    .footer{
+        display: flex;
+        height: 200px;
+        gap:   440px;
+        background-color: black;
+        margin-top: 0px;
+        margin-left: -6px;
+        width: 1345px;
+    }
+    .ac{
+        margin-top: 50px;
+        margin-left: 320px;
+    }
+    .kop img{
+        margin-left: 10px;
+        width: 16px;
+        margin-bottom: -6px;
+    }
+    .bog{
+        font-weight: 600;
+        font-size: 11px;
+        margin-top: 20px;
+        font-family: sans-serif;
+        margin-bottom: -8px;
+        color: white;
+    }
+    .bug{
+        font-size: 10px;
+        color: rgb(182, 174, 174);
+    }
+    .boom{
+        margin-top: 53px;
+    }
+    .herb{
+        font-weight: 600;
+        font-size: 11px;
+        margin-top: 16px;
+        font-family: sans-serif;
+        margin-bottom: 6px;
+        word-spacing: 5px;
+        color: white;
+        
+    }
+    .boom a{
+        font-size: 8px;
+        color: rgb(189, 171, 171);
+    
+    }
+    .ven{
+        margin-top: -6px;
+        margin-left: 65px;
+    }
+    .pmi{
+        font-size: 7px;
+        color: white;
+        margin-bottom: -4px;
+    }
+    .flo{
+        color: white;
+        font-family:  sans-serif;
+        font-weight: 300;
+        font-size: 19px;
+        text-align: center;
+        margin-left: -50px;
+        padding-top: 15px;
+    }
+    .con{
+        margin-top: 0px;
+        margin-bottom: 0px;
+        background-color: black;
+        margin-left: -6px;
+        width: 1345px;
+        
+    }
+    .neu{
+        background-color: white;
+        width: 350px;
+        margin-left: 470px;
+        height: 50px;
+    }
+    .wow{
+        color: rgb(117, 116, 116);
+        font-family: sans-serif;
+        font-size: 11px;
+        padding-top: 5px;
+        margin-left: 4px;
+    }
+    .dot{
+        background-color: red;
+       width: 15px;
+       height: 15px;
+       border-radius: 10px;
+       margin-top: px;
+    }
+    .ye{
+        display: flex;
+        margin-top: -17px;
+        gap: 10px;
+        margin-left: 10px;
+    
+    }
+    .ck{
+        font-size: 15px;
+        font-weight: 600;
+        font-family: sans-serif;
+        
+    }
+    .start{
+        font-size: 8px;
+        font-weight: 600;
+        font-family: sans-serif;
+        margin-top: 19px;
+        
+    }
+    .vb{
+        color:rgb(190, 186, 186);
+        font-family: sans-serif;
+        font-size: 13px;
+        margin-left: 86px;
+        margin-top: 16px;
+    }
+    .coni{
+        margin-bottom: 230px;
+        background-color: black;
+        height: 300px;
+    }
+    .neui{
+        background-color: white;
+        width: 350px;
+        margin-left: 470px;
+        height: 50px;
+    }
+    .wowi{
+        color: rgb(117, 116, 116);
+        font-family: sans-serif;
+        font-size: 11px;
+        padding-top: 5px;
+        margin-left: 4px;
+    }
+    .doti{
+        background-color: purple;
+       width: 10px;
+       height: 10px;
+       border-radius: 10px;
+       margin-top: 20px;
+    }
+    .yei{
+        display: flex;
+        margin-top: -17px;
+        gap: 10px;
+        margin-left: 10px;
+    
+    }
+    .cki{
+        font-size: 15px;
+        font-weight: 600;
+        font-family: sans-serif;
+        
+    }
+    .starti{
+        font-size: 8px;
+        font-weight: 600;
+        font-family: sans-serif;
+        margin-top: 19px;
+        
+    }
+    .vbi{
+        color:rgb(190, 186, 186);
+        font-family: sans-serif;
+        font-size: 13px;
+        margin-left: 145px;
+        margin-top: 16px;
+    }
+    .agg{
+        display: flex;
+        font-family: sans-serif;
+        text-align: center;
+        margin-left: 470px;
+        gap: 5px;
+    }
+    .ng{
+        color: white;
+        font-family: sans-serif;
+        font-size: 13px;
+    }
+    .gn{
+        color: orange;
+        font-size: 13px;
+    }
+    #mit{
+        border: 3px rgb(194, 14, 14) solid;
+        color: red;
+    }
+    .pa{
+        color: white;
+        font-family: sans-serif;
+        font-size: 8px;
+        font-weight: lighter;
+        margin-left: 490px;
+        word-spacing: 1.6px;
+        margin-top: -10px;
+        line-height: 13px;
+    }
+    .set{
+        color: orange;
+        border-radius: none;
+        width: 370px;
+        height: 30px;
+        margin-left: 460px;
+    }
+    .giu :hover{
+        background-color: rgb(240, 104, 41);
+        border-bottom: none;
+    }
+    .oo{
+        color: white;
+        list-style: none;
+        text-decoration: none;
+    }

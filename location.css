@@ -1,0 +1,145 @@
+.link{
+    display: flex;
+    gap: 30px;
+   }
+.body{
+    background-color: rgb(128, 27, 46);
+}
+  
+   .mpo{
+       display: flex;
+       gap: 50px;
+       margin-top: 12px;
+       margin-left: 210px;
+   
+   }
+   li{
+       list-style: none;
+       margin-top: 7px;
+   }
+   .bgb{
+       background-color: rgb(39, 37, 37);
+       height: 53px;
+       margin-left: -8px;
+       width: 1348.9px;
+       margin-top: -8px;
+   }
+   .bi{
+       color:rgb(236, 230, 230) ;
+       text-decoration: none;
+       font-size: 14px;
+       font-family: sans-serif;
+   }
+   .a{
+       background-color: rgb(224, 200, 200);
+       width: 90px;
+       height: 28px;
+       margin-top: 6px;
+       margin-left: 50px;
+   }
+   .bi:hover{
+       border-bottom: rgba(255, 101, 11, 0.856) 1px solid;
+   }
+   .btn{
+       gap: 20px;
+       display: flex;
+       margin-left: 80px;
+       margin-top: 2px;
+   }
+   .btn button{
+       background-color: #fff;
+       border: none;
+       height: 30px;
+       margin-top: 10px;
+       width: 118px;
+       border-radius: 2px;
+   }
+   .link img{
+       margin-top: 15px;
+   }
+   body{
+       background-color: black;
+   }
+.hhh{
+    color: #fff;
+    margin-top: 50px;
+}
+.hhh p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    letter-spacing: 1px;
+    margin-left: 560px;
+
+}
+.lik{
+    display: flex;
+    gap: 16px;
+    margin-bottom: 15px;
+    margin-left: 80px;
+}
+.lik img{
+    width: 390px;
+}
+.footer{
+    display: flex;
+    height: 180px;
+    gap:   440px;
+    margin-top: 24px;
+}
+.ac{
+    margin-top: 50px;
+    margin-left: 320px;
+}
+.kop img{
+    margin-left: 10px;
+    width: 16px;
+    margin-bottom: -6px;
+}
+.bog{
+    font-weight: 600;
+    font-size: 11px;
+    margin-top: 20px;
+    font-family: sans-serif;
+    margin-bottom: -8px;
+    color: white;
+}
+.bug{
+    font-size: 10px;
+    color: rgb(182, 174, 174);
+}
+.boom{
+    margin-top: 53px;
+}
+.herb{
+    font-weight: 600;
+    font-size: 11px;
+    margin-top: 16px;
+    font-family: sans-serif;
+    margin-bottom: 6px;
+    word-spacing: 5px;
+    color: white;
+    
+}
+.boom a{
+    font-size: 8px;
+    color: rgb(189, 171, 171);
+
+}
+.ven{
+    margin-top: -6px;
+    margin-left: 65px;
+}
+.pmi{
+    font-size: 7px;
+    color: white;
+    margin-bottom: -4px;
+}
+.giu :hover{
+    background-color: rgb(240, 104, 41);
+    border-bottom: none;
+}
+.oo{
+    color: white;
+    list-style: none;
+    text-decoration: none;
+}
